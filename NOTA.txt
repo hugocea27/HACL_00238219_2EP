@@ -1,0 +1,2 @@
+En algunos datagridview, no sé porque, pero las letra salen de color blanco,
+y paracen que estén vacíos, al darles click encima se puede ver el contenido,

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nvidia\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nvidia\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial.-1198242254.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nvidia\Desktop\Rider\Parcial" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Parcial" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CambiarContra.cs" t="Include" />
+        <e p="CambiarContra.Designer.cs" t="Include" />
+        <e p="CambiarContra.resx" t="Include" />
+        <e p="Conexion.cs" t="Include" />
+        <e p="Consultas.cs" t="Include" />
+        <e p="Login.cs" t="Include" />
+        <e p="Login.Designer.cs" t="Include" />
+        <e p="Login.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Parcial.csproj" t="IncludeRecursive" />
+        <e p="Principal.cs" t="Include" />
+        <e p="Principal.Designer.cs" t="Include" />
+        <e p="Principal.resx" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Usuario.cs" t="Include" />
+        <e p="UsuarioDAO.cs" t="Include" />
+      </e>
+      <e p="Parcial.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
